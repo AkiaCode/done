@@ -35,6 +35,6 @@ done module install done@1.0
 
 * Support Web API (100%)
 * Support plugin api
-* Event Loop (tokie)
+* Event Loop (tokio)
 * Support Promise (async, await)
 * Remove node_modules, pacakges.json
