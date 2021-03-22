@@ -1,5 +1,5 @@
 # done
-a JavaScript runtime
+
 * [Spec](./spec.md)
 
 ```javascript
